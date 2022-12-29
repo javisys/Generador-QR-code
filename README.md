@@ -4,4 +4,4 @@ Es necesario tener una pequeña libreria de JavaScript para que funcione correct
 
 Responsive web design include
 
-La dejo por aquí https://mrjay16018.github.io/Generador-QR-code/
+La dejo por aquí https://javisys.github.io/Generador-QR-code/
